@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{202:function(n,t,e){"use strict";e.r(t);var c={data:function(){return{menu:[]}}},l=e(26),component=Object(l.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  Opis dla ludków zaczynających swój zarząd \n")])}),[],!1,null,null,null);t.default=component.exports}}]);
